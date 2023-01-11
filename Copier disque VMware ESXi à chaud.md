@@ -47,7 +47,7 @@ Ensuite, il faudra sélectionner le chemin où vous voulez la coller. Dans mon c
 
 # 4] Téléchargement du disque
 
-La nous allons voir comment télécharger le disque virtuel, pour se faire vous aurez juste à vous rendre dans l'Explorateur de banque de données, vous selectionneré votre disque et cliqué sur "Télécharger" 
+Maintenant, nous allons voir comment télécharger le disque virtuel. Pour cela, vous aurez juste à vous rendre dans l'Explorateur de banque de données, sélectionner votre disque et cliquer sur "Télécharger".
 
 <img src="https://cdn.discordapp.com/attachments/1029113801003511859/1062691156703596604/image.png">
 
